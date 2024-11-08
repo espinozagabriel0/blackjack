@@ -28,4 +28,4 @@ let deckShuffled  = createDeck();
 console.log(deckShuffled);
 
 
-//TODO: SHUFFLE DECK
+//TODO: TAKE CARD
