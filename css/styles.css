@@ -1,0 +1,10 @@
+img[alt='card']{
+    width: 13rem;
+    position: relative;
+    left: 5rem;
+    margin-left: -130px;
+}
+
+#playerCards, #computerCards{
+    margin-left: 4rem;
+}
